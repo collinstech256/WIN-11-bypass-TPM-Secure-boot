@@ -1,5 +1,5 @@
-# WIN-11-bypass-TPM-Secure-boot
-Bypass Your PC is not comfortable using this registry script simple and easy 
+__# WIN-11-bypass-TPM-Secure-boot__
+Bypass Your PC is not compatible using this registry script simple and easy 
 Follow our youtube channel to check out more 
 
 HOW TO USE THE FILE
