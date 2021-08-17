@@ -1,10 +1,13 @@
 __# WIN-11-bypass-TPM-Secure-boot__
-Bypass Your PC is not compatible using this registry script simple and easy 
+
+## Bypass Your PC is not compatible using this registry script simple and easy 
 Follow our youtube channel to check out more 
 
 HOW TO USE THE FILE
 
+```java
 -Create a bootable windows 11 disk
+```
 
 -After creating the bootable disk
 
